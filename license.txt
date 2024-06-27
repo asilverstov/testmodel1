@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samurai oni mask
+* source:	https://sketchfab.com/3d-models/samurai-oni-mask-73e67d7be4ec490fa6cfb1380748151f
+* author:	Aid (https://sketchfab.com/aid2901)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samurai oni mask" (https://sketchfab.com/3d-models/samurai-oni-mask-73e67d7be4ec490fa6cfb1380748151f) by Aid (https://sketchfab.com/aid2901) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
